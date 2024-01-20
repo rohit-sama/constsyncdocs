@@ -56,7 +56,7 @@ const config: Config = {
       items: [
         {
           type: 'doc',  // Corrected type from 'Docs' to 'doc'
-          sidebarId: 'tutorialSidebar',
+          docId: 'intro',
           position: 'left',
           label: 'Tutorial',
         },
