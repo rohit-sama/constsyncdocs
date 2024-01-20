@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
 ---
+# Demo
+<video width="500" height="500"  controls>
+  <source src="/video/intro.mp4" type="video/mp4"/>
+</video>
 
 # Dark Patterns Detection Extension Documentation
 
